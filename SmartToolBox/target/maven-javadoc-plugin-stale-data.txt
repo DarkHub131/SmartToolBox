@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'/home/nahid/Documents/Academic/projects/SmartBox/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SmartToolBox 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SmartToolBox 1.0-SNAPSHOT API'
+com.neon.mainsource
+/home/nahid/Documents/Academic/projects/SmartBox/src/main/java = 1689016461000
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/tag-search-index.js = 1695380614948
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/script.js = 1695380614980
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/module-search-index.js = 1695380614944
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/member-search-index.js = 1695380614948
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/overview-tree.html = 1695380614924
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/element-list = 1695380614812
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/help-doc.html = 1695380614976
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/package-search-index.js = 1695380614944
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/copy.svg = 1695380614980
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/search.html = 1695380614968
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/allpackages-index.html = 1695380614944
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/serialized-form.html = 1695380614896
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/index.html = 1695380614972
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/stylesheet.css = 1695380614980
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/index-all.html = 1695380614964
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/search-page.js = 1695380614984
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/allclasses-index.html = 1695380614940
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/type-search-index.js = 1695380614944
+/home/nahid/Documents/Academic/projects/SmartBox/target/site/apidocs/search.js = 1695380614984
